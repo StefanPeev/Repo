@@ -24,7 +24,7 @@ SIL Open Font License [OFL](documentation/OFL.txt)
 
 Examples
 --------
-See [images](/images/).
+See [images](/images/) and [Gallery](/images/Gallery.md).
 
 Local Fonts Project
 -------------------
